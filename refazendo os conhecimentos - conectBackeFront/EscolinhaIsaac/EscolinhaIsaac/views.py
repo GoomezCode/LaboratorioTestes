@@ -1,4 +1,5 @@
 from django.http import HttpResponse
+from django.shortcuts import render
 
 def pageHome(request):
-    return HttpResponse("Bem-vindo a escola Issac")
+    return render(request, "home/index.html")
