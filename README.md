@@ -38,4 +38,4 @@
 ![Texto alternativo](https://link-da-imagem.com/img.png)
 </pre>
 
-(/IMG/02.jpg)
+![Imagem-Alternativo](/IMG/02.jpg)
