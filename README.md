@@ -1,6 +1,6 @@
 # Laboratorio de Aprendizado
     
-### aqui vou testar todos os fremeworks que eu estiver aprendendo todos os meu projetos iniciais para fins de teste será aqui que os deixarei
+### Aqui vou testar todos os fremeworks que eu estiver aprendendo todos os meu projetos iniciais para fins de teste será aqui que os deixarei
      
 
 ## Linguagens
@@ -40,6 +40,15 @@
 <img src="IMG" all="Imagem01" width="300" />
 
 ```
----
 
 <img src="/IMG/02.jpg" alt="Imagem01" width="300" />
+
+<span>
+
+</span>
+
+<style>
+    img{
+        border-radius: 10px
+    }
+</style>
