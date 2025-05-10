@@ -7,14 +7,14 @@
     
    ### As linguagens serão:
     
-    (HTML - CSS) - "Não e uma linguagem"
-    JavaScript
-    Python
-    Java
+(HTML - CSS) - **"Não e uma linguagem"**
+**JavaScript**
+**Python**
+**Java**
 
     frameworks:
 
-## teste 
+## Tipos de Formato de TXT .MD 
 
 ```Print("olá mundo")```
 
