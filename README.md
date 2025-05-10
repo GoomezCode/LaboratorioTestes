@@ -12,7 +12,6 @@
 **Python**
 **Java**
 
-    frameworks:
 
 ## Tipos de Formato de TXT .MD 
 
