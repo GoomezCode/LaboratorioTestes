@@ -1,3 +1,16 @@
-# Bom dia 
+# Laboratorio de Aprendizado
+    
+    aqui vou testar todos os fremeworks que eu estiver aprendendo
+    todos os meu projetos iniciais para fins de teste será aqui que
+    os deixarei
 
-## boa Tarde
+## Linguagens
+
+    As linguagens serão:
+    
+    (HTML - CSS) - "Não e uma linguagem"
+    JavaScript
+    Python
+    Java
+
+    frameworks:
