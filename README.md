@@ -40,15 +40,13 @@
 <img src="IMG" all="Imagem01" width="300" />
 
 ```
-
-<img src="/IMG/02.jpg" alt="Imagem01" width="300" />
-
 <span>
-
+    <img src="/IMG/02.jpg" alt="Imagem01" width="300" />
 </span>
 
-<style>
-    img{
-        border-radius: 10px
-    }
-</style>
+<span>
+    <img src="/IMG/08.jpg" alt="Imagem02" width="300" />
+</span>
+
+
+
