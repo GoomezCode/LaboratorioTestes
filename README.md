@@ -28,10 +28,10 @@
 #### Criar Link e Imagens:
 <pre>
      Adicionar links: 
-`[Google](https://www.google.com)`
+[Google](https://www.google.com)
 </pre>
 
-`[Google](https://www.google.com)`
+[Google](https://www.google.com)
 
 <pre>     
      Adicionar Imagens:   
