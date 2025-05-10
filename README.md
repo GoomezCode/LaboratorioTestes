@@ -8,8 +8,11 @@
    ### As linguagens serão:
     
 (HTML - CSS) - **"Não e uma linguagem"**
+
 **JavaScript**
+
 **Python**
+
 **Java**
 
 
