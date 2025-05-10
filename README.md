@@ -16,6 +16,10 @@
 
 ## teste 
 
-    ```Print("olá mundo")```
-    ! teste de TXT 01
-    **Teste de TXT 02**
+```Print("olá mundo")```
+
+~~Teste de TXT 01~~
+
+*Teste de TXT 02*
+
+**Teste de TXT 03**
