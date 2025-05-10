@@ -40,9 +40,30 @@
     
     <div class="container">
         <h1>Bem-vindo {{Nome}} a Suas tarefas!!</h1>  
+
+        <table border="1">
+            <thead>
+                <th>Nome</th>
+                <th>Descricao</th>
+                <th>Situação</th>
+                <th>Data de criação</th>
+            </thead>
+
+            <tbody>
+                {%for tarefa in tarefas%}
+                    <tr>
+                        <td>{{tarefa.nome}}</td>
+                        <td>{{tarefa.descricao}}</td>
+                        <td>{{tarefa.completo}}</td>
+                        <td>{{tarefa.dataCriacao}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
         <h2>Faça o seu login Antes de Proseguir</h2>  
         
-        <a href="{%url 'tarefa:abaLogin' %}">Confirmar</a>
+        <a href="{%url 'tarefas:abaLogin' %}">Confirmar</a>
 
     </div>
     
