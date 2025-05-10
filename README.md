@@ -25,11 +25,15 @@
 
 **Teste de TXT 03**
 
-#### Criar Link e Imagens
+#### Criar Link e Imagens:
 <pre>
      Adicionar links: 
 `[Google](https://www.google.com)`
-     
+</pre>
+
+`[Google]([text](https://www.google.com))`
+
+<pre>     
      Adicionar Imagens:   
 ![Texto alternativo](https://link-da-imagem.com/img.png)
 </pre>
