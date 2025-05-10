@@ -31,7 +31,7 @@
 `[Google](https://www.google.com)`
 </pre>
 
-`[Google]([text](https://www.google.com))`
+`[Google](https://www.google.com)`
 
 <pre>     
      Adicionar Imagens:   
