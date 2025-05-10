@@ -15,8 +15,6 @@
 
 **Java**
 
-<pre>Comando de codigo</pre>
-
 ## Tipos de Formato de TXT .MD 
 
 ```Print("Hello World")```
@@ -27,4 +25,3 @@
 
 **Teste de TXT 03**
 
-# Objetivo e ser um Web Desenvolvedor - FullStack
