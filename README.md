@@ -40,5 +40,6 @@
 <img src="IMG" all="Imagem01" width="300" />
 
 ```
+---
 
 <img src="/IMG/02.jpg" alt="Imagem01" width="300" />
