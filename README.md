@@ -18,7 +18,7 @@
 
 ## Tipos de Formato de TXT .MD 
 
-```Print("olá mundo")```
+```Print("Hello World")```
 
 ~~Teste de TXT 01~~
 
