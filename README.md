@@ -37,3 +37,5 @@
      Adicionar Imagens:   
 ![Texto alternativo](https://link-da-imagem.com/img.png)
 </pre>
+
+[Texto alternativo](/IMG/02.jpg)
