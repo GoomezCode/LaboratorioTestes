@@ -25,3 +25,8 @@
 
 **Teste de TXT 03**
 
+<pre>
+`[Google](https://www.google.com)`
+
+![Texto alternativo](https://link-da-imagem.com/img.png)
+</pre>
