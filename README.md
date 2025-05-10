@@ -39,6 +39,16 @@
 
 <img src="IMG" all="Imagem01" width="300" />
 
+Usado para deixar as IMG um ao lado da outra (
+    <span>
+        IMG_01
+    </span>
+
+    <span>
+        IMG_02
+    </span>
+)
+
 ```
 <span>
     <img src="/IMG/02.jpg" alt="Imagem01" width="300" />
