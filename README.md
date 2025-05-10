@@ -1,8 +1,7 @@
 # Laboratorio de Aprendizado
     
-### aqui vou testar todos os fremeworks que eu estiver aprendendo
-     todos os meu projetos iniciais para fins de teste será aqui que
-     os deixarei
+### aqui vou testar todos os fremeworks que eu estiver aprendendo todos os meu projetos iniciais para fins de teste será aqui que os deixarei
+     
 
 ## Linguagens
     
