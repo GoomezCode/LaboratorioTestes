@@ -21,7 +21,7 @@ def chamada():
     contador += 1
 
     print()
-    numResposta = int(input("Qual o Palpite: "))
+    numResposta = int(input("Faça um Palpite (1 a 20) : "))
     
     while numResposta == numAleatorio:
         print
