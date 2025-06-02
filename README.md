@@ -9,7 +9,7 @@
     
    ### As linguagens serão:
     
-(HTML - CSS) - **"Não e uma linguagem"**
+**(HTML - CSS)**
 
 **JavaScript**
 
